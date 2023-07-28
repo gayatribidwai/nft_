@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gayatribidwai/nft_.git/static/css/main.e1e56acf.css",
+    "main.js": "/gayatribidwai/nft_.git/static/js/main.21e4f709.js",
+    "static/js/787.db1c6d4d.chunk.js": "/gayatribidwai/nft_.git/static/js/787.db1c6d4d.chunk.js",
+    "index.html": "/gayatribidwai/nft_.git/index.html",
+    "main.e1e56acf.css.map": "/gayatribidwai/nft_.git/static/css/main.e1e56acf.css.map",
+    "main.21e4f709.js.map": "/gayatribidwai/nft_.git/static/js/main.21e4f709.js.map",
+    "787.db1c6d4d.chunk.js.map": "/gayatribidwai/nft_.git/static/js/787.db1c6d4d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1e56acf.css",
+    "static/js/main.21e4f709.js"
+  ]
+}
