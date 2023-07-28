@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/gayatribidwai/nft_.git/static/css/main.e1e56acf.css",
-    "main.js": "/gayatribidwai/nft_.git/static/js/main.21e4f709.js",
-    "static/js/787.db1c6d4d.chunk.js": "/gayatribidwai/nft_.git/static/js/787.db1c6d4d.chunk.js",
-    "index.html": "/gayatribidwai/nft_.git/index.html",
-    "main.e1e56acf.css.map": "/gayatribidwai/nft_.git/static/css/main.e1e56acf.css.map",
-    "main.21e4f709.js.map": "/gayatribidwai/nft_.git/static/js/main.21e4f709.js.map",
-    "787.db1c6d4d.chunk.js.map": "/gayatribidwai/nft_.git/static/js/787.db1c6d4d.chunk.js.map"
+    "main.css": "/nft_/static/css/main.e1e56acf.css",
+    "main.js": "/nft_/static/js/main.76329d43.js",
+    "static/js/787.db1c6d4d.chunk.js": "/nft_/static/js/787.db1c6d4d.chunk.js",
+    "index.html": "/nft_/index.html",
+    "main.e1e56acf.css.map": "/nft_/static/css/main.e1e56acf.css.map",
+    "main.76329d43.js.map": "/nft_/static/js/main.76329d43.js.map",
+    "787.db1c6d4d.chunk.js.map": "/nft_/static/js/787.db1c6d4d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e1e56acf.css",
-    "static/js/main.21e4f709.js"
+    "static/js/main.76329d43.js"
   ]
 }
